@@ -1,1 +1,1 @@
-web: gunicorn geschenk:server --timeout 30
+web: gunicorn geschenk:server --timeout 60
